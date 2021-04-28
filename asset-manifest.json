@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aymanhany/egyptoil-gas/static/css/main.2e7919c8.chunk.css",
+    "main.js": "/aymanhany/egyptoil-gas/static/js/main.53fac387.chunk.js",
+    "main.js.map": "/aymanhany/egyptoil-gas/static/js/main.53fac387.chunk.js.map",
+    "runtime-main.js": "/aymanhany/egyptoil-gas/static/js/runtime-main.cd256b12.js",
+    "runtime-main.js.map": "/aymanhany/egyptoil-gas/static/js/runtime-main.cd256b12.js.map",
+    "static/css/2.5fa4a44b.chunk.css": "/aymanhany/egyptoil-gas/static/css/2.5fa4a44b.chunk.css",
+    "static/js/2.0fd6df70.chunk.js": "/aymanhany/egyptoil-gas/static/js/2.0fd6df70.chunk.js",
+    "static/js/2.0fd6df70.chunk.js.map": "/aymanhany/egyptoil-gas/static/js/2.0fd6df70.chunk.js.map",
+    "index.html": "/aymanhany/egyptoil-gas/index.html",
+    "static/css/2.5fa4a44b.chunk.css.map": "/aymanhany/egyptoil-gas/static/css/2.5fa4a44b.chunk.css.map",
+    "static/css/main.2e7919c8.chunk.css.map": "/aymanhany/egyptoil-gas/static/css/main.2e7919c8.chunk.css.map",
+    "static/js/2.0fd6df70.chunk.js.LICENSE.txt": "/aymanhany/egyptoil-gas/static/js/2.0fd6df70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd256b12.js",
+    "static/css/2.5fa4a44b.chunk.css",
+    "static/js/2.0fd6df70.chunk.js",
+    "static/css/main.2e7919c8.chunk.css",
+    "static/js/main.53fac387.chunk.js"
+  ]
+}
